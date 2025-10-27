@@ -11,34 +11,6 @@
 - Unit-тестирование с JUnit 5
 - Сборку с помощью Maven
 
-## 🏗️ Структура проекта
-DigitalSector/
-├── pom.xml
-├── README.md
-└── src/
-├── main/
-│ └── java/
-│ └── com/
-│ └── dsacademy/
-│ ├── Main.java
-│ ├── model/
-│ │ └── Employee.java
-│ ├── service/
-│ │ ├── EmployeeService.java
-│ │ └── FileService.java
-│ └── util/
-│ ├── EmployeeNotFoundException.java
-│ ├── FileLoadException.java
-│ └── InvalidFormatException.java
-└── test/
-└── java/
-└── com/
-└── dsacademy/
-└── service/
-└── EmployeeServiceTest.java
-
-text
-
 ## ⚙️ Требования
 
 - **Java**: 17 или выше
