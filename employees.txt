@@ -1,0 +1,10 @@
+0,Ivan0,Ivanov0,0
+1,Ivan1,Ivanov1,10000
+2,Ivan2,Ivanov2,20000
+3,Ivan3,Ivanov3,30000
+4,Ivan4,Ivanov4,40000
+5,Ivan5,Ivanov5,50000
+6,Ivan6,Ivanov6,60000
+7,Ivan7,Ivanov7,70000
+8,Ivan8,Ivanov8,80000
+9,Ivan9,Ivanov9,90000
